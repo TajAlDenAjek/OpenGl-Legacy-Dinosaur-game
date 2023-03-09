@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\administrator\desktop\dinogame\dinogame\source.cpp(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual studio 2012\vc\include\string.h(110) : see declaration of 'strcpy'
+c:\users\administrator\desktop\dinogame\dinogame\source.cpp(216): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual studio 2012\vc\include\string.h(110) : see declaration of 'strcpy'
+c:\users\administrator\desktop\dinogame\dinogame\source.cpp(234): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual studio 2012\vc\include\string.h(110) : see declaration of 'strcpy'
+c:\users\administrator\desktop\dinogame\dinogame\source.cpp(244): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\visual studio 2012\vc\include\string.h(110) : see declaration of 'strcpy'
+  dinoGame.vcxproj -> C:\Users\Administrator\Desktop\dinoGame\Debug\dinoGame.exe
